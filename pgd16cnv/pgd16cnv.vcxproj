@@ -96,9 +96,6 @@
     <ClInclude Include="pgd16cnv.h" />
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\release\bmp.lib" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\bmp\bmp.vcxproj">
       <Project>{0560d2e4-8049-466f-aee5-4890a35a4ce5}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>

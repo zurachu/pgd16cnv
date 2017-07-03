@@ -27,7 +27,4 @@
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Library Include="..\release\bmp.lib" />
-  </ItemGroup>
 </Project>
