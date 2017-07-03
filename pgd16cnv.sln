@@ -1,12 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pgd16cnv", "pgd16cnv\pgd16cnv.vcproj", "{187EA984-1B92-456E-A6AB-517746E32023}"
-	ProjectSection(ProjectDependencies) = postProject
-		{0560D2E4-8049-466F-AEE5-4890A35A4CE5} = {0560D2E4-8049-466F-AEE5-4890A35A4CE5}
-	EndProjectSection
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pgd16cnv", "pgd16cnv\pgd16cnv.vcxproj", "{187EA984-1B92-456E-A6AB-517746E32023}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bmp", "bmp\bmp.vcproj", "{0560D2E4-8049-466F-AEE5-4890A35A4CE5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bmp", "bmp\bmp.vcxproj", "{0560D2E4-8049-466F-AEE5-4890A35A4CE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
