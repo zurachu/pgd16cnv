@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pgd16cnv", "pgd16cnv\pgd16cnv.vcproj", "{187EA984-1B92-456E-A6AB-517746E32023}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0560D2E4-8049-466F-AEE5-4890A35A4CE5} = {0560D2E4-8049-466F-AEE5-4890A35A4CE5}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bmp", "bmp\bmp.vcproj", "{0560D2E4-8049-466F-AEE5-4890A35A4CE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187EA984-1B92-456E-A6AB-517746E32023}.Debug|Win32.ActiveCfg = Debug|Win32
+		{187EA984-1B92-456E-A6AB-517746E32023}.Debug|Win32.Build.0 = Debug|Win32
+		{187EA984-1B92-456E-A6AB-517746E32023}.Release|Win32.ActiveCfg = Release|Win32
+		{187EA984-1B92-456E-A6AB-517746E32023}.Release|Win32.Build.0 = Release|Win32
+		{0560D2E4-8049-466F-AEE5-4890A35A4CE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0560D2E4-8049-466F-AEE5-4890A35A4CE5}.Debug|Win32.Build.0 = Debug|Win32
+		{0560D2E4-8049-466F-AEE5-4890A35A4CE5}.Release|Win32.ActiveCfg = Release|Win32
+		{0560D2E4-8049-466F-AEE5-4890A35A4CE5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
